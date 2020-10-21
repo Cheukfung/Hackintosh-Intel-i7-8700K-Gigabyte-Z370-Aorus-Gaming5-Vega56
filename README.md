@@ -19,9 +19,10 @@
 + [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi/release) v1.0.4
 + [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) v1.2.2
 
+## 备注
++ 这款主板在BIOS不能直接关闭CFG，关闭方法在[这里](https://blog.xjn819.com),直接在网页搜索【解锁BIOS中的CFG功能】就能看到。
++ 一旦解锁了CFG,需要在Kernel -> Quirks下，关闭AppleCpuPmCfgLock 以及 AppleXcpmCfgLock
+
 ![硬件解码](./snapshot/VideoProc.png)
 ![USB定制](./snapshot/usb.png)
 ![变频](./snapshot/pw.png)
-
-## 备注
-+ 这款主板在BIOS不能直接关闭CFG，关闭方法在[这里](https://blog.xjn819.com),直接在网页搜索【解锁BIOS中的CFG功能】就能看到。
