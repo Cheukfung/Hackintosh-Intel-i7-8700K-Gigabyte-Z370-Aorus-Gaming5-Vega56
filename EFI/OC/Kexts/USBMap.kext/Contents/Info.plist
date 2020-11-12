@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMac19,1-XHC</key>
+		<key>iMac18,2-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -208,9 +208,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac19,1</string>
+			<string>iMac18,2</string>
 		</dict>
-		<key>iMac19,1-XHC2</key>
+		<key>iMac18,2-XHC2</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -277,7 +277,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac19,1</string>
+			<string>iMac18,2</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>

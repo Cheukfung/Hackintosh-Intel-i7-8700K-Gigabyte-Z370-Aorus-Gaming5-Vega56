@@ -10,11 +10,11 @@
 + 蓝牙&无线网卡：Broadcom BCM943602CS
 
 ## 更新
-+ macOS Catalina 10.15.7
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.2
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.4.8
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.3
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.3
++ macOS Big Sur 11.0.1(20B28)
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.3
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.4.9
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.4
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.4
 + [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.7
 + [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi/release) v1.0.4
 + [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) v1.2.2
