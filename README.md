@@ -10,14 +10,14 @@
 + 蓝牙&无线网卡：Broadcom BCM943602CS
 
 ## 更新
-+ macOS Big Sur 11.0.1(20B28)
-+ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.3
-+ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.4.9
-+ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.4
-+ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.4
-+ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.7
-+ [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi/release) v1.0.4
-+ [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) v1.2.2
++ macOS Big Sur 11.1(20C69)
++ [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) v0.6.5
++ [Lilu](https://github.com/acidanthera/Lilu/releases) v1.5.0
++ [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) v1.4.6
++ [AppleALC](https://github.com/acidanthera/AppleALC/releases) v1.5.6
++ [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) v1.1.9
++ [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi/release) v1.0.5
++ [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) v1.2.3
 
 ## 备注
 + 这款主板在BIOS不能直接关闭CFG，关闭方法在[这里](https://blog.xjn819.com),直接在网页搜索【解锁BIOS中的CFG功能】就能看到。
