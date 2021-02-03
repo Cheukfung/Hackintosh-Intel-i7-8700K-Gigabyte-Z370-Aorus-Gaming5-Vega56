@@ -412,6 +412,8 @@
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
+			<key>SetApfsTrimTimeout</key>
+			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
@@ -439,6 +441,10 @@
 			<string>None</string>
 			<key>HideAuxiliary</key>
 			<true/>
+			<key>LauncherOption</key>
+			<string>Disabled</string>
+			<key>LauncherPath</key>
+			<string>Default</string>
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
@@ -506,8 +512,6 @@
 			<false/>
 			<key>BlacklistAppleUpdate</key>
 			<false/>
-			<key>BootProtect</key>
-			<string>Bootstrap</string>
 			<key>DmgLoading</key>
 			<string>Signed</string>
 			<key>EnablePassword</key>
@@ -685,12 +689,14 @@
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
+			<key>MaxBIOSVersion</key>
+			<false/>
 			<key>MLB</key>
-			<string>C027373004NJ0DX1F</string>
+			<string>C02744701QXJ0DX1H</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1541</integer>
 			<key>ROM</key>
-			<data>ZvNx4F4m</data>
+			<data>eV2vGyMq</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -698,9 +704,9 @@
 			<key>SystemProductName</key>
 			<string>iMac18,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VDKZ2J1G5</string>
+			<string>C02VM0WHJ1G5</string>
 			<key>SystemUUID</key>
-			<string>9B5C1623-3B49-4D6E-95A7-35232EE05E26</string>
+			<string>5E379F1C-BE80-4851-87DC-DE25551B232A</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -711,11 +717,11 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C027373004NJ0DX1F</string>
+			<string>C02744701QXJ0DX1H</string>
 			<key>ROM</key>
-			<data>ZvNx4F4m</data>
+			<data>eV2vGyMq</data>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>5E379F1C-BE80-4851-87DC-DE25551B232A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -725,6 +731,8 @@
 		<true/>
 		<key>UpdateSMBIOSMode</key>
 		<string>Create</string>
+		<key>UseRawUuidEncoding</key>
+		<false/>
 	</dict>
 	<key>UEFI</key>
 	<dict>
@@ -860,6 +868,8 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+			<key>DisableSecurityPolicy</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
