@@ -1,5 +1,5 @@
 # hackintosh-efi
-
+# GitHub经常打不开，转[Gitee](https://gitee.com/cheukfungho/hackintosh-intel-i7-8700-k-gigabyte-z370-aorus-gaming5-vega56)和[pcbeta](https://bbs.pcbeta.com/viewthread-1880071-1-1.html)更新了
 ## 配置
 + 主板：技嘉Z370 AROUS Gaming5(BIOS版本:F7,已解锁CFG)
 + CPU：Intel® Core™ i7-8700K Processor
